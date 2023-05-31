@@ -39,7 +39,10 @@ const styles = StyleSheet.create({
   },
   text2:{
 fontSize: 24,
-margin:150
+margin:100,
+
+
+
 
   },
   button: {
